@@ -17,3 +17,4 @@ jobs:
       - name: njsscan hybrid plugin scan
         uses: cloudbees-io/njsscan-hybrid-plugin@v1
         
+        
